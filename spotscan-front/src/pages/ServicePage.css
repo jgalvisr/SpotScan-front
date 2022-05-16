@@ -1,0 +1,13 @@
+p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+#img-selected {
+  border-width: 2px;
+  border-color: gray;
+  border-style: solid;
+  margin-top: 40px;
+}
