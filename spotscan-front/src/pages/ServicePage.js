@@ -45,7 +45,7 @@ export const ServicePage = () => {
     )
   }
   
-  const sendToAPI = async () => {
+  /* const sendToAPI = async () => {
     let b = {image: image};
     const resp = await fetch(MODEL_API, {
       headers: {
@@ -56,7 +56,7 @@ export const ServicePage = () => {
     });
     const data = await resp.json();
     setProb(data);
-  }
+  } */
 
   return (
     <>
